@@ -1,4 +1,6 @@
 # hello-world
 My first Git repo
 
-Here are some fast changes...
+Change the change with some fast changes...
+
+Also more new text here
